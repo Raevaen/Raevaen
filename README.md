@@ -46,7 +46,6 @@ PlantUML
 
 ## 📈 GitHub Stats
 
-![Raevaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raevaen&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
